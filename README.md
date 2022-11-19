@@ -10,7 +10,7 @@
 - Redux
 
 ## Blog 
-Click [here](https://dev.to/aneeqakhan/building-shopping-cart-actions-and-reducers-with-redux-in5) for the link
+Click [here](https://dev.to/aneeqakhan/todo-app-actions-and-reducers-in-redux-part-1-pnf) for the link
 
 ## Contact
 [Aneeqa Khan](https://twitter.com/Aneeqa_Khan25)
